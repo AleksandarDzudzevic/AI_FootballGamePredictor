@@ -71,7 +71,9 @@ The final step involves generating plots to visualize the impact of the number o
 3. Run the Python script.
 
 The script will process the data, train the models, perform cross-validation, and generate plots visualizing the results.
-![https://github.com/AleksandarDzudzevic/AI_FootballGamePredictor/blob/test/Figure_1.png](Picture shows the accuracy vs number of features graph)
+![Picture shows the accuracy vs number of features graph](https://github.com/AleksandarDzudzevic/AI_FootballGamePredictor/blob/test/Figure_1.png)
+![Picture shows the time vs number of features graph](https://github.com/AleksandarDzudzevic/AI_FootballGamePredictor/blob/test/Figure_2.png)
+
 ### Contributing
 
 We welcome contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or new features. 
